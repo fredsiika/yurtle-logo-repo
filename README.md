@@ -10,7 +10,7 @@
    <h3 style="text-align: center;">Default Logo - text only</h3>
     <img src="./assets/profile.png" />
   </div>
-<div class="all-logos style="width: 100%;">
+
   <div class="container" style="display: flex;">
     <div class="options1">
         <img src="./assets/eye/cover.png" />
@@ -22,7 +22,6 @@
         <img src="./assets/heart/cover.png" />
       </div>
   </div>
-</div>
 
 <hr /> <br />
 
